@@ -1,0 +1,13 @@
+{
+  "name": "bad-startfile",
+  "version": "0.0.42",
+  "fullName": "Bad startfile",
+  "joshfire": {
+    "devices": [
+      {
+        "devices": "*",
+        "startfile": "RaNdOmFiLe.42"
+      }
+    ]
+  }
+}
